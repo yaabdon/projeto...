@@ -1,3 +1,47 @@
+Visual Novel - Projeto em Python
+
+Este projeto é uma visual novel desenvolvida em Python com um sistema de personalização de personagem e escolhas interativas.
+
+Como executar o projeto
+
+Siga os passos abaixo para configurar e executar o projeto corretamente:
+
+1. Clone o repositório
+
+# Clone este repositório no seu computador
+$ git clone https://github.com/seu-usuario/seu-repositorio.git
+
+# Acesse o diretório do projeto
+$ cd seu-repositorio
+
+2. Crie e ative um ambiente virtual
+
+# Crie um ambiente virtual chamado venv
+$ python -m venv venv
+
+# Ative o ambiente virtual:
+# No Windows:
+$ venv\Scripts\activate
+
+# No MacOS/Linux:
+$ source venv/bin/activate
+
+3. Instale as dependências
+
+# Instale os pacotes listados no arquivo requirements.txt
+$ pip install -r requirements.txt
+
+4. Execute o projeto
+
+# Inicie o jogo executando o arquivo main.py
+$ python main.py
+
+Observação
+
+Certifique-se de estar utilizando uma versão do Python compatível com o projeto (recomendado Python 3.8 ou superior).
+
+
+
 O arquivo original se chama "Project_00_2024":										
 -------------------------------
 
