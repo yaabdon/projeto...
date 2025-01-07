@@ -1,0 +1,389 @@
+{
+  "episodios": [
+    {
+      "nome": "Recomeço",
+      "numero": 1,
+      "cenas": [
+        {
+          "descricao": "Após cinco dias e cinco noites às 10h40 de uma segunda-feira, você se encontrava em frente à portões imponentes… Sua nova vida escolar num reformatório, bem, bem distante de casa, o cheiro do mar era nítido mesmo que há uma distância considerável, o sol jazia quente e a temperatura fazia sua nuca suar… Ou era o nervosismo? Você continuaria a contemplar a paisagem nada familiar se uma cabeleira loira não pairasse à sua frente e interrompesse seus pensamentos… Os nossos pensamentos.",
+          "dialogos": [
+            {
+              "personagem": "???",
+              "mensagem": "Então... É você a… (s/n), estudante transferida de %@#*!?"
+            }
+          ],
+          "escolhas": [
+            {
+              "descricao": "Sim, a própria! (você afirmou confiante, confiança e simpatia trariam novas amizades, certo?)",
+              "proxima_cena": 1,
+              "condicao": null
+            },
+            {
+              "descricao": "Você está vendo outra pessoa parada em frente à essa escola deserta? (você não se dava muito bem com mudanças, ou com manhãs, assim como o seu humor)",
+              "proxima_cena": 2,
+              "condicao": null
+            },
+            {
+              "descricao": "(só balançar a cabeça e dá um sorrisinho amarelo confirmando)",
+              "proxima_cena": 3,
+              "condicao": null
+            }
+          ]
+        },
+        {
+          "descricao": "(Eleanor balançou os cabelos e seu sorriso de cortesia se desfez dando local a um suspiro cansado)",
+          "dialogos": [
+            {
+              "personagem": "Eleanor",
+              "mensagem": "Bom, não é um prazer lhe conhecer, mas já que as circunstâncias me trouxeram à esse encontro. Sou a Eleanor. Vou te mostrar o caminho até o seu dormitório, e de lá você se vira, okay?"
+            }
+          ],
+          "escolhas": [
+            {
+              "descricao": "(continuar)",
+              "proxima_cena": 4,
+              "condicao": "Escolha 1"
+            }
+          ]
+        },
+        {
+          "descricao": "(Eleanor balançou os cabelos e seu sorriso de cortesia se desfez dando local a um suspiro cansado)",
+          "dialogos": [
+            {
+              "personagem": "Eleanor",
+              "mensagem": "Ah, interessante. Sabia que seu visual de garota caipira não escondia nenhuma surpresa, o que se esperar de quem não recebeu educação adequada.."
+            }
+          ],
+          "escolhas": [
+            {
+              "descricao": "(continuar)",
+              "proxima_cena": 4,
+              "condicao": "Escolha 2"
+            }
+          ]
+        },
+        {
+          "descricao": "(Eleanor balançou os cabelos e seu sorriso de cortesia se desfez dando local a um suspiro cansado)",
+          "dialogos": [
+            {
+              "personagem": "Eleanor",
+              "mensagem": "Okay, hã... Muda. Bem, siga-me."
+            }
+          ],
+          "escolhas": [
+            {
+              "descricao": "(continuar)",
+              "proxima_cena": 4,
+              "condicao": "Escolha 3"
+            }
+          ]
+        },
+        {
+          "descricao": "Antes que você pudesse dizer alguma coisa para expressar sua ira, Eleanor saiu andando da mesma forma que chegara, impetuosamente, sem opções, relutantemente, batendo seus pés contra o piso, você a seguiu, o som dos saltos de Eleanor com o contraste dos seus tênis lhe fizeram perceber... Não importa a grosseria ou falta de tato daquela garota, você realmente não se encaixava ali...",
+          "dialogos": [
+            {
+              "personagem": "Eleanor",
+              "mensagem": "Térreo, ginásio, recepção, refeitório, as salas ficam no segundo andar, terceiro andar dormitório feminino na ala esquerda e dormitório masculino na ala direita, último andar somos proibidos, mas vai em direção à torre do sino que você deve ter visto quando chegou aqui… Ou não. Enfim, não interessa. É isso. Dúvidas?"
+            }
+          ],
+          "escolhas": [
+            {
+              "descricao": "Não é meio perigosos os dormitórios masculinos e femininos serem no mesmo andar?",
+              "proxima_cena": 5,
+              "condicao": null
+            },
+            {
+              "descricao": "Porque não podemos ir até o último andar?",
+              "proxima_cena": 6,
+              "condicao": null
+            },
+            {
+              "descricao": "É verdade a lenda da torre do sino?",
+              "proxima_cena": 7,
+              "condicao": null
+            }
+          ]
+        },
+        {
+          "descricao": "Eleanor balançou seus fios de cabelo e colocou as unhas bem feitas sobre a sua boca, ficando em silêncio por 3s, como se estivesse considerando se valia a pena ou não responder suas perguntas.",
+          "dialogos": [
+            {
+              "personagem": "Eleanor",
+              "mensagem": "Há um corredor separando esses dormitórios onde os vigias circulam em turnos de 6h, então, não. Agora se me der licença, tenho um compromisso a atender."
+            }
+          ],
+          "escolhas": [
+            {
+              "descricao": "(continuar)",
+              "proxima_cena": 8,
+              "condicao": "Escolha 1"
+            }
+          ]
+        },
+        {
+          "descricao": "Eleanor balançou seus fios de cabelo e colocou as unhas bem feitas sobre a sua boca, ficando em silêncio por 3s, como se estivesse considerando se valia a pena ou não responder suas perguntas.",
+          "dialogos": [
+            {
+              "personagem": "Eleanor",
+              "mensagem": "Direção decidiu assim, seja menos curiosa e você não se meterá em encrencas. Agora se me der licença, tenho um compromisso a atender."
+            }
+          ],
+          "escolhas": [
+            {
+              "descricao": "(continuar)",
+              "proxima_cena": 8,
+              "condicao": "Escolha 2"
+            }
+          ]
+        },
+        {
+          "descricao": "Eleanor balançou seus fios de cabelo e colocou as unhas bem feitas sobre a sua boca, ficando em silêncio por 3s, como se estivesse considerando se valia a pena ou não responder suas perguntas.",
+          "dialogos": [
+            {
+              "personagem": "Eleanor",
+              "mensagem": "Ah… Todos os novatos fazem a mesma pergunta! Sempre! Não, não é verdade. Agora se me der licença, tenho um compromisso a atender."
+            }
+          ],
+          "escolhas": [
+            {
+              "descricao": "(continuar)",
+              "proxima_cena": 8,
+              "condicao": "Escolha 3"
+            }
+          ]
+        },
+        {
+          "descricao": "Parecia algo comum e da personalidade da Eleanor ir embora tão rápido quanto parecera. Ela era veloz e em questão de instantes, havia saído de sua vista. As aulas começariam em apenas algumas horas, dessa forma, sem ter muito o que fazer e sem desejar se perder. Você caminhou em direção à recepção e depois de recolher as chaves do seu dormitório, decidiu se recolher para um breve descanso...",
+          "dialogos": [
+            {
+              "personagem": "???",
+              "mensagem": "EITA PORRA! AAAAAAAH!!!?!?!"
+            }
+          ],
+          "escolhas": [
+            {
+              "descricao": "(Você acordou do seu sono de repente e observou no escuro de onde vinha o grito esganiçado)",
+              "proxima_cena": 9,
+              "condicao": null
+            }
+          ]
+        },
+        { 
+          "descricao": "(… então notou que havia um corpo feminino de bruços, na cama vazia ao lado, soltando xingamentos abafados, agarrando o próprio pé numa posição contorcionista e bizarra)",
+          "dialogos": [
+            {
+              "personagem": "???",
+              "mensagem": "ah… Cacete, que dor… Juro para você, nova-colega-de-quarto, todo ano eles mudam essas merdas de móveis do lugar, querem quebrar meu pé! Eu vou tacar um processo neles e... (ela olhou em sua direção e pareceu realmente lhe encarar)... Ih. Nunca vi sua fuça antes, tu é novata! Prazer! Emily!"
+            }
+          ],
+          "escolhas": [
+            {
+              "descricao": "...Prazer, (s/n) (você estendeu a mão para a cumprimentar, ela tinha uma personalidade completamente oposta à Eleanor e aquele ambiente, era...reconfortante)",
+              "proxima_cena": 10,
+              "condicao": null
+            },
+            {
+              "descricao": "Hm... Prazer, (s/n). (você estendeu a mão para a cumprimentar, mas ficou cautelosa, a personalidade dela, reações e maneiras eram diferentes demais de Eleanor, do ambiente, isso lhe pareceu...Suspeito)",
+              "proxima_cena": 10,
+              "condicao": null
+            }
+          ]
+        },
+        {
+          "descricao": "Emily era uma bomba de energia, falou durante horas sozinha e quando finalmente o silêncio se sobrepos no quarto já escuro devido ao anoitecer, você ambas se puseram a dormir. Mas na madrugada, escutou o som da porta abrir e fechar discretamente, ela não queria que você soubesse que estava saindo ou não ligava? O sono lhe fez voltar a dormir e na manhã seguinte as duas andaram juntas pela escola já que compartilhavam o mesmo horário.",
+          "dialogos": [
+            {
+              "personagem": "narrador",
+              "mensagem": "Você já não tinha mais nenhuma aula, ficou em dúvida entre ir ao refeitório lanchar, visitar à biblioteca para revisar matéria ou ir até o seu dormitório terminar de desempacotar caixas."
+            }
+          ],
+          "escolhas": [
+            {
+              "descricao": "Virar à esquina e ir até o refeitório",
+              "proxima_cena": 11,
+              "condicao": null
+            },
+            {
+              "descricao": "Subir as escadas e visitar a biblioteca",
+              "proxima_cena": 12,
+              "condicao": null
+
+            },
+            {
+              "descricao": "Passar direto pelo refeitório, biblioteca e ir até o dormitório",
+              "proxima_cena": 13,
+              "condicao": null
+            }
+          ]
+        },
+        {
+          "descricao": "Você não encontrou nada para comer no refeitório, ele estava fechado.",
+          "dialogos": [
+            {
+              "personagem": "narrador",
+              "mensagem": "Escolha entre ir até a biblioteca ou ao dormitório?"
+            }
+          ],
+          "escolhas": [
+            {
+              "descricao": "Subir as escadas e visitar a biblioteca",
+              "proxima_cena": 12,
+              "condicao": "Escolha 1"
+            },
+            {
+              "descricao": "Passar direto pelo refeitório, biblioteca e ir até o dormitório",
+              "proxima_cena": 13,
+              "condicao": "Escolha 1"
+            }
+          ]    
+        },
+        {
+          "descricao": "Você não encontrou nada na biblioteca, as matérias eram tão introdutórias que você ainda não passava do primeiro capítulo dos livros disponíveis",
+          "dialogos": [
+            {
+              "personagem": "narrador",
+              "mensagem": "Escolha entre ir até o refeitório ou ao dormitório?"
+            }
+          ],
+          "escolhas": [
+            {
+              "descricao": "Virar à esquina e ir até o refeitório",
+              "proxima_cena": 11,
+              "condicao": "Escolha 2"
+            },
+            {
+              "descricao": "Passar direto pelo refeitório, biblioteca e ir até o dormitório",
+              "proxima_cena": 13,
+              "condicao": "Escolha 2"
+            }
+          ]  
+        },
+        {
+          "descricao": "Era melhor desempacotar tudo e organizar seu quarto. Teria que brigar por Emily para ver quem ficaria com o guarda-roupa maior e ter suas roupas nele primeiro lhe oferceria vantagem! No entanto, a caminho das escadas que levavam ao dormitório, você avistou uma garota de cabelos pretos azulados escorada contra a parede do que parecia um pequeno esconderijo entre as escadas que ligavam o primeiro andar ao segundo, o garoto de cabelos ruivos que estava próximo dela, a cobria perfeitamente. Apesar da péssima iluminação, você podia notar a altura dele, os longos cabelos de tom vinho e com algum esforço também reparara que ele sorria para a menina, enquanto essa o encarava de forma... Apreensiva?",
+          "dialogos": [
+            {
+              "personagem": "menino desconhecido de cabelos vermelhos",
+              "mensagem": "De todos os lugares, justamente aqui?"
+            }
+          ],
+          "escolhas": [
+            {
+              "descricao": "(Se esconder na frente das escadas enquanto continuava a escutar discretamente a conversa, dia novo e já tinha uma fofoca nova fresquinha?!?)",
+              "proxima_cena": 14,
+              "condicao": "Escolha 3"
+            },
+            {
+              "descricao": "(Dar um passo a frente e com muito cuidado tentar ver, escutar e entender melhor o que acontecia ali. Uma pequena ''investigação'', a situação é meio suspeita, né?)",
+              "proxima_cena": 15,
+              "condicao": null
+
+            },
+            {
+              "descricao": "(Dar meia volta e cuidar da sua vida, isso não lhe interessa e não tem nada haver com você)",
+              "proxima_cena": 16,
+              "condicao": null
+            }
+          ]    
+        },
+        {
+          "descricao": "",
+          "dialogos": [
+            {
+              "personagem": "",
+              "mensagem": ""
+            }
+          ],
+          "escolhas": [
+            {
+              "descricao": "(Seu plano funcionara tão bem que não somente você tinha uma visão melhorada da cena, agora os escutava em 4k, porém, seu sorriso se desfez quando um som insinuante saira do local, chocada e envergonhada você tentou sair rapidamente, sua pressa a fez tropeçar... Você caiu na frente deles, a vergonha de ser pega foi tomada pela surpresa da cena que era muito distinta da que você tinha imaginado!)",
+              "proxima_cena": 17,
+              "condicao": "Escolha 1"
+            }
+          
+          ]
+        },
+        {
+          "descricao": "",
+          "dialogos": [
+            {
+              "personagem": "",
+              "mensagem": ""
+            }
+          ],
+          "escolhas": [
+            {
+              "descricao": "(Ao se aproximar você reparou melhor na menina de cabelos pretos-azulados, seus olhos eram verdes brilhantes e sua pele era de um tom canela. Quando seus olhos se fecharam e o ruivo se aproximara para um... Beijo?! Você suspirou e decidiu dar meia volta, seu primeiro passo teria conhecido o segundo se não fosse pelo grito abafado que ouviu logo em seguida, fazendo-a voltar a cabeça e encarar a cena mais uma vez!",
+              "proxima_cena": 17,
+              "condicao": "Escolha 2"
+            }    
+          ]
+        },
+        {
+          "descricao": "",
+          "dialogos": [
+            {
+              "personagem": "",
+              "mensagem": ""
+            }
+          ],
+          "escolhas": [
+            {
+              "descricao": "(O som de seus passos despreoupados alertara os dois que estavam escondidos, a situação se reverteu e em invés de ser a expectadora, você se tornou a atenção principal da situação! Invés do constrangimento de ser pega bisbilhotando, seus corpo se arrepiou pelo constrante absurdo da situação. Você paralisou diante do que via e não conseguiu fugir)",
+              "proxima_cena": 17,
+              "condicao": "Escolha 3"
+            }    
+          ]
+        }
+      ]
+    },
+
+    {
+      "nome": "Memória",
+      "numero": 2,
+      "cenas": [
+        {
+          "descricao": "O ladrilho do piso era de um mármore preto e frio. As paredes daquele pequeno local escondido e esquecido estavam desgastadas, já se tornara o local secreto de muitos amantes. Os corpos de dois jovens que se encontravam as escondidas estavam próximos, suas bocas não se tocavam, os braços da garota jaziam ao lado do seu corpo, seus olhos não estavam somente fechados, seu corpo permanecia inerte, o queixo baixo e o ombro desnudo com... Sangue. Vermelho vivo, escorrendo e pingando como uma goteira incessante.",
+          "dialogos": [
+            {
+              "personagem": "narrador",
+              "mensagem": "O garoto encarava suas feições com suas pupilas que refletiam uma vermelhidão quase tão vibrante quanto o líquido que escorria do ombro da garota de azul. A aura sombria... Ele era..."
+            }
+          ],
+          "escolhas": [
+            {
+              "descricao": "Um vampiro! O EDWARD!",
+              "proxima_cena": 1,
+              "condicao": null
+            },
+            {
+              "descricao": "Um... UM MONSTRO!?",
+              "proxima_cena": 1,
+              "condicao": null
+            },
+            {
+              "descricao": "Jeffrey Dahmer versão remix?!",
+              "proxima_cena": 1,
+              "condicao": null
+            }
+          ]
+        },
+        {
+          "descricao": "PA-ROOOOOOOOOWWW 📍",
+          "dialogos": [
+            {
+              "personagem": "Miup",
+              "mensagem": "Olá, querido jogador ou jogadora! Desculpe por interromper o meio do seu episódio e por ter feito um diálogo mais bobo no final, devo dizer que estou muito feliz caso tenha chegado até aqui. Construi esse espaço com muito carinho e vou continuar investindo tempo para por melhorias e interfaces mais interativas. Espero te ver quando Contos Em Branco for um projeto que saiu da faculdade e atingiu a cadeia de jogos do mundo real!"
+            }
+          ],
+          "escolhas": [
+            {
+              "descricao": "(continuar)",
+              "proxima_cena": 2,
+              "condicao": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
