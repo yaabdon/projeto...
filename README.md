@@ -12,10 +12,10 @@ Siga os passos abaixo para configurar e executar o projeto corretamente:
 1. Clone o repositório
 
 # Clone este repositório no seu computador
-$ git clone https://github.com/seu-usuario/seu-repositorio.git
+$ git clone https://github.com/yaabdon/projeto_livre_turma3.git
 
 # Acesse o diretório do projeto
-$ cd seu-repositorio
+$ cd projeto_livre_turma3
 
 2. Crie e ative um ambiente virtual
 
@@ -42,8 +42,6 @@ $ python main.py
 Observação
 
 Certifique-se de estar utilizando uma versão do Python compatível com o projeto (recomendado Python 3.8 ou superior).
-
-
 
 O arquivo original se chama "Project_00_2024":										
 -------------------------------
@@ -89,8 +87,7 @@ O arquivo original se chama "Project_00_2024":
 O CODIGO É SOBRE UM JOGO DE VISUAL NOVEL CHAMADO "CONTOS EM BRANCO":
 --------------
 Tanto menu.py quanto controller_episodios.py são os códigos com as que apresentam o maior comando de controle do jogo,
-enquanto em MENU conseguimos navegar por todo o jogo, em CONTROLLER_EPISODIO iniciamos a parte principal do jogo que é
-o próprio jogo
+enquanto em MENU conseguimos navegar por todo o jogo, em CONTROLLER_EPISODIO iniciamos a parte principal do jogo que é o episodio a ser jogado
 
 Quando aberto o terminal: O usuario deve receber uma mensagem de boas-vindas, logo depois escolher entre as opcoes de login (models - usuario.py),
 se já estiver logado, um arquivo json com seus dados homologa o acesso a conta e em seguida é apresentado o menu para o usuario,
