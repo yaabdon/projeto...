@@ -1,3 +1,6 @@
+ALUNA: YASMIN SOUSA ABDON
+MATRÍCULA: 232014271
+
 Visual Novel - Projeto em Python
 
 Este projeto é uma visual novel desenvolvida em Python com um sistema de personalização de personagem e escolhas interativas.
